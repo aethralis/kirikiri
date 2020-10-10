@@ -2193,7 +2193,7 @@ textarea {
 .esikylg {
   font-family: var(--post-entry-font);
   margin: 2.1857142857rem auto;
-  margin-top: -0.5rem;
+  margin-top: 0.8rem;
   margin-bottom: 0;
   max-width: 46rem;
 }
@@ -2208,7 +2208,7 @@ textarea {
   margin-top: 0;
 }
 .post__entry a:not(.btn):not([type=button]):not([type=submit]):not(button) {
-  color: var(--link-hover-color);
+  color: #808080;
 }
 .post__entry a:not(.btn):not([type=button]):not([type=submit]):not(button):hover {
   text-decoration: underline;
