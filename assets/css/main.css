@@ -1778,6 +1778,7 @@ textarea {
     padding: 0 2.9142857143rem;
   }
 }
+
 @media all and (min-width: 56.25em) and (max-width: 74.9375em) {
   .u-inner {
     padding: 0;
@@ -2187,6 +2188,14 @@ textarea {
     height: auto;
     width: 100%;
   }
+}
+
+.esikylg {
+  font-family: var(--post-entry-font);
+  margin: 2.1857142857rem auto;
+  margin-top: -0.5rem;
+  margin-bottom: 0;
+  max-width: 46rem;
 }
 
 .post__entry {
