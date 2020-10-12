@@ -2190,6 +2190,14 @@ textarea {
   }
 }
 
+.esikylg {
+  font-family: var(--post-entry-font);
+  margin: 2.1857142857rem auto;
+  margin-top: 0.8rem;
+  margin-bottom: 0;
+  max-width: 46rem;
+}
+
 .post__entry {
   font-family: var(--post-entry-font);
   margin: 2.1857142857rem auto;
