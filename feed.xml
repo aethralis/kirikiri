@@ -3,12 +3,47 @@
     <title>Kirikiri</title>
     <link href="https://aethralis.github.io/kirikiri/feed.xml" rel="self" />
     <link href="https://aethralis.github.io/kirikiri" />
-    <updated>2020-10-12T21:37:43+03:00</updated>
+    <updated>2020-10-13T11:38:34+03:00</updated>
     <author>
         <name>Kirikiri</name>
     </author>
     <id>https://aethralis.github.io/kirikiri</id>
 
+    <entry>
+        <title>Vene kosmism</title>
+        <author>
+            <name>Kirikiri</name>
+        </author>
+        <link href="https://aethralis.github.io/kirikiri/vene-kosmism.html"/>
+        <id>https://aethralis.github.io/kirikiri/vene-kosmism.html</id>
+            <category term="ulme"/>
+            <category term="religioon"/>
+            <category term="kosmistid"/>
+            <category term="kirjandus"/>
+            <category term="filosoofia"/>
+
+        <updated>2020-10-13T11:38:34+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aethralis.github.io/kirikiri/media/posts/8/image_anonyme_folies_bergere.jpg" alt="" />
+                    Vene kosmismi on keeruline lühidalt kokku võtta. Kui püüda üldistada, siis peamised teemad on: 1) inimese aktiivne rolli inimese ja kosmilise evolutsiooni mõjutamises;2) inimese eluea pikendamine, mis tähendab praktilist surematust;3)&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://aethralis.github.io/kirikiri/media/posts/8/image_anonyme_folies_bergere.jpg" alt="" />
+                <p>Vene kosmismi on keeruline lühidalt kokku võtta. Kui püüda üldistada, siis peamised teemad on:</p>
+<p>1) inimese aktiivne rolli inimese ja kosmilise evolutsiooni mõjutamises;
+2) inimese eluea pikendamine, mis tähendab praktilist surematust;
+3) uute eluvormide loomine, sealhulgas inimkonna uuele tasemele tõstmine;
+4) surnute füüsiline ülestõusmine;
+5) „noosfääri” tekkimine praeguse biosfääri baasil
+6) kosmose uurimine ja koloniseerimine;</p>
+<p>Need projektid on algusest peale planeeritud totaalsetena, selles mõttes nagu töörahva revolutsioon oli planeeritud totaalsena – teisisõnu millegina, mis haarab vähemalt kogu inimkonda, kosmismi puhul aga ei midagi vähemat kui kogu kosmost. Sellisena on kosmistlik projekt ka otseselt individualistliku, demokraatliku ja sekulaarse Lääne vastane, olles mõjutatud Vene imperialistlikust mõtlemisest ja ortodoksi müstikast, kandes tugevaid religioosse apokalüptika tunnusjooni. Just viimatinimetatud põhjustel olid vene kosmismi esindajad üldiselt Nõukogude liidus keelatud või vähemalt põlu all. Samas olid nende ideed väga mõjukad kirjanduses ja kunstis – nii Dostojevski kui ka Tolstoi on nendest mõtlejatest mõjutatud. </p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Aquino Thomas</title>
         <author>
