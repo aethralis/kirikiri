@@ -1778,7 +1778,6 @@ textarea {
     padding: 0 2.9142857143rem;
   }
 }
-
 @media all and (min-width: 56.25em) and (max-width: 74.9375em) {
   .u-inner {
     padding: 0;
@@ -2190,14 +2189,6 @@ textarea {
   }
 }
 
-.esikylg {
-  font-family: var(--post-entry-font);
-  margin: 2.1857142857rem auto;
-  margin-top: 0.8rem;
-  margin-bottom: 0;
-  max-width: 46rem;
-}
-
 .post__entry {
   font-family: var(--post-entry-font);
   margin: 2.1857142857rem auto;
@@ -2208,7 +2199,7 @@ textarea {
   margin-top: 0;
 }
 .post__entry a:not(.btn):not([type=button]):not([type=submit]):not(button) {
-  color: #808080;
+  color: var(--link-hover-color);
 }
 .post__entry a:not(.btn):not([type=button]):not([type=submit]):not(button):hover {
   text-decoration: underline;

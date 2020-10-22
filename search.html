@@ -4,7 +4,7 @@
     <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Error 404 - Kirikiri</title>
+    <title>Search - Kirikiri</title>
     
 	<meta name="robots" content="noindex, follow" />
     <meta name="generator" content="Publii Open-Source CMS for Static Site" />
@@ -72,10 +72,35 @@
         </header>
         <div class="content">
     <main class="main">
-        <div class="page">
-            <h1 class="page__title box__title">404</h1>
-            <p>Midagi läks viltu</p>
+        <div class="page search">
+            <h1 class="page__title box__title">
+                Otsing</h1>            
         </div>
+        <form action="https://aethralis.github.io/kirikiri/search.html" class="search__form">
+            <input
+                type="search"
+                name="q"
+                placeholder="otsing..."
+                class="search__input" />
+			<button type="submit">Otsi</button>
+        </form>
+
+        <script>
+            (function () {
+                var cx = '';
+                var gcse = document.createElement('script');
+                gcse.type = 'text/javascript';
+                gcse.async = true;
+                gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                var s = document.getElementsByTagName('script')[0];
+                s
+                    .parentNode
+                    .insertBefore(gcse, s);
+            })();
+        </script>
+
+        <gcse:searchresults-only></gcse:searchresults-only>
+
     </main>
     <div class="sidebar">
              <section class="box featured">
